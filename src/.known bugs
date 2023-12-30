@@ -1,0 +1,3 @@
+WizardClass dostaje źle statystykę Constitution przy budowaniu postaci
+Sprawdzić Statistic enum, coś tam jest nie tak z modyfikatorami do value
+Jak zrobić spellbook?!
